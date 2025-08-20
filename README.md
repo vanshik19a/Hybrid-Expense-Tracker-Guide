@@ -15,7 +15,6 @@ SQLite database
 
 In Progress / Future
 AI-powered budget advisor
-OCR bill/invoice scanning (auto expense logging)
 Investment tracking (via yFinance API)
 Email/SMS parsing for transactions
 Task reminders (EMI/bill due dates)
