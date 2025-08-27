@@ -133,4 +133,4 @@ AI-powered financial advisor
 OCR for bill scanning
 PDF report generation
 Multi-user shared budgets
-Mobile version (React Native / Flutter)
+Mobile version (React Native / Flutter) 
