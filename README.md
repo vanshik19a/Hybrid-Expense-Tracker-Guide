@@ -2,7 +2,7 @@ The Expense Tracker is a full-stack application built using Django (backend) and
 
 This project is designed to be scalable and extendable, with planned integration of AI-powered financial advice, OCR bill scanning, and investment tracking.
 
-Features
+Features 
 
 Completed
 User authentication (login, logout, signup)
